@@ -1,3 +1,4 @@
+//Zihan Xu
 function Registration() {
   const form = document.getElementById("stripe-login2");
   const emailErr = document.querySelector("input[name='email']");
