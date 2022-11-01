@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 import bcrypt from "bcrypt";
-
+//Yuting Shao
 function MyMongoDB() {
   const myDB = {};
   const url = process.env.MONGODB_URI || "mongodb://localhost:27017";
@@ -110,7 +110,7 @@ function MyMongoDB() {
   //     client.close();
   //   }
   // };
-
+  //Zihan Xu
   myDB.resetPass = async (newUser) => {
     let client, col;
     try {
