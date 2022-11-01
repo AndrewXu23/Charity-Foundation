@@ -10,6 +10,6 @@ analysis your cancer cells report, donate money to support cancer patients.
 
 YouTube Link: https://youtu.be/vHbblZrySws
 
-Together, we make things happen.
+Together, we make things happen!
 
 ![Screenshot](https://s2.loli.net/2022/11/01/fEcmU8xJbTOaznk.png)
