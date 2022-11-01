@@ -1,3 +1,4 @@
+//Zihan Xu
 let myButton = document.getElementById("sharestor");
 let myHeading = document.querySelector("#story");
 
