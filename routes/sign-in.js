@@ -31,3 +31,4 @@ router.get("/", (req, res) => {
 });
 
 export default router;
+//Didn't implement other crud operations, just register and sign in.
