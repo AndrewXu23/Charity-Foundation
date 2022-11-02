@@ -147,3 +147,4 @@ function MyMongoDB() {
 }
 
 export default MyMongoDB();
+// DB is supposed to have at least 2 collection, I only see one for users
