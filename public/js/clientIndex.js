@@ -96,3 +96,4 @@ function ClientIndex() {
 }
 
 export default ClientIndex();
+// Not sure what this code is for considering I don't see much backend function you have on your demo
