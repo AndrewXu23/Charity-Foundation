@@ -1,4 +1,5 @@
 //Zihan Xu
+<!-- When I click on register button index page, previous userID, email and phone number I entered shows up, it should be blank.-->
 function Registration() {
   const form = document.getElementById("stripe-login2");
   const emailErr = document.querySelector("input[name='email']");
